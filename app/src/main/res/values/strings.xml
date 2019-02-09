@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rates</string>
+    <string name="date_format">dd.MM.yyyy</string>
+    <string name="rate_format">%1$f</string>
+</resources>
